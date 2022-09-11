@@ -4,13 +4,13 @@
 /**
  * main - write a function that print the alphabets in lowercase
  * you can only use putchar
- * Return 0
+ * Return: 0
   */
 int main(void)
 {
 
-int l ='a';
-while ( l <= 'z')
+int l = 'a';
+while (l <= 'z')
 {
 putchar(l);
 l += 1;
