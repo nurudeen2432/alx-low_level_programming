@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * main - program that prints Holberton.
+ * main - program that prints _putchar.
  *
  * Return: int
  */
