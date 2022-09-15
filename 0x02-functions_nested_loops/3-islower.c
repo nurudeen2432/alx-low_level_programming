@@ -6,7 +6,7 @@
  * Return: int.
  */
 
-int is_lower(int c)
+int _islower(int c)
 {
 
 if( c<=97 && c>=122)
