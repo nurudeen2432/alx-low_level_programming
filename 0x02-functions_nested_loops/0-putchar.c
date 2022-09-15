@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib>
+#include "main.h"
 
 /**
  * main - program that prints Holberton.
