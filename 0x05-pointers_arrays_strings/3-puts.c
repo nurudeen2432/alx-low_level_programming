@@ -5,7 +5,7 @@
  *
  * @str: pointer to char
  * Return: nothing
- i*/
+ */
 
 void _puts(char *str)
 {
